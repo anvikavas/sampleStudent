@@ -33,7 +33,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-![Headstone Image](IMG_7587.jpeg)
+![MilestoneOne](MilestoneOne.HEIC)
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
 - An explanation about the different components of your project and how they will all integrate together
@@ -47,7 +47,7 @@ This project started with developing simple a system that assists visually-impai
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Schematics 
-![Schematic1](Schematic1.png)
+![Schematic1](Schematics1.png)
 
 # Code
 ```c++
