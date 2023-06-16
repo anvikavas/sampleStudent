@@ -40,6 +40,7 @@ For your first milestone, describe what your project is and how you plan to buil
 - Technical progress you've made so far
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project
+This project started with developing simple a system that assists visually-impaired indaviduals in nagivating a space. It alerts the user of objects within a 70cm radius with either haptic or auditive feedback: a vibrating motor or buzzer. The circuit also has a 5mm red LED to make the 
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
@@ -93,14 +94,18 @@ For your first milestone, describe what your project is and how you plan to buil
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
-
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Ultrasonic Sensor | Object Detection | $9 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/">Link </a> |
-| Vibrating Motor | Haptic Feedback | $11 | <a href="https://www.amazon.com/tatoko-vibration-Waterproof-8000-16000RPM-toothbrush/dp/B07KYLZC1S/"> Link </a> |
-| Buzzer | Auditive Feedback | $7 | <a href="https://www.amazon.com/mxuteuk-Electronic-Computers-Printers-Components/dp/B07VK1GJ9X/"> Link </a> |
+| Arduino Micro | Microcontroller | $24.90 | <a href="https://www.digikey.com/en/products/detail/arduino/A000053/4486332?s=N4IgTCBcDaIIwAYCsCC0iBsHUDsAmIAugL5A"> DigiKey </a> |
+| Ultrasonic Sensor | Object Detection | $9 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/"> Amazon </a> |
+| Vibrating Motor | Haptic Feedback | $11 | <a href="https://www.amazon.com/tatoko-vibration-Waterproof-8000-16000RPM-toothbrush/dp/B07KYLZC1S/"> Amazon </a> |
+| Buzzer | Auditive Feedback | $7 | <a href="https://www.amazon.com/mxuteuk-Electronic-Computers-Printers-Components/dp/B07VK1GJ9X/"> Amazon </a> |
+| 5mm Red LED | Visual Troubleshooting  | $6 | <a href="https://www.amazon.com/Diffused-Lighting-Electronics-Components-Emitting/dp/B01C3ZZT0A/"> Amazon </a> |
+| Slide Switch | Selecting Haptic of Auditive Feedback  | $6 | <a href="https://www.amazon.com/HiLetgo-SS-12D00-Toggle-Switch-Vertical/dp/B07RTJDW27/"> Amazon </a> |
+| 220Ω Resistor | Limiting Current to LED | $5.99 | <a href="https://www.amazon.com/MCIGICM-Values-Resistor-Assortment-Resistors/dp/B06WRQS97C/ref=asc_df_B06WRQS97C/?tag=hyprod-20&linkCode=df0&hvadid=312303208923&hvpos=&hvnetw=g&hvrand=2879797771863936635&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9003932&hvtargid=pla-586932991178&psc=1"> Amazon </a> |
+| Breadboard | Intial Circuit Base | $9.99 | <a href="https://www.amazon.com/EL-CP-003-Breadboard-Solderless-Distribution-Connecting/dp/B01EV6LJ7G/ref=sr_1_11?keywords=solderless+breadboard&qid=1685564152&sr=8-11%20soldering%20kit11Amazonhttps://www.amazon.com/Soldering-Iron-Kit-Temperature-Desoldering/dp/B07S61WT16/ref=sxts_b2b_sx_reorder_acb_business"> Amazon </a> |
+| Jumper Cables | Connecting Wires | $13.35 | <a href="https://www.amazon.com/QISF-Breadboard-Preformed-Anti-Static-Electronics/dp/B088WNZXFQ/ref=sr_1_6_sspa?crid=3BVYVZGBE5A3Z&keywords=boardboard+with+jumper+wires&qid=1686002634&sprefix=boardboard+with+jumper+wires%2Caps%2C83&sr=8-6-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFOWlRORjRCRUVHQTcmZW5jcnlwdGVkSWQ9QTA5Mjc5NjkxUktLUFAyVVJYRVBGJmVuY3J5cHRlZEFkSWQ9QTA5ODUyMjIyQ0IwTDM3VzIwQkFKJndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="> Amazon </a> |
+
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
