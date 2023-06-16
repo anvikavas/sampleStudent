@@ -33,7 +33,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 
-![MilestoneOne](MilestoneOne.HEIC)
+![MilestoneOne](MilestoneOne.png)
 
 For your first milestone, describe what your project is and how you plan to build it. You can include:
 - An explanation about the different components of your project and how they will all integrate together
