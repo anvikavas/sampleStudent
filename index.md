@@ -3,7 +3,7 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Anvika V | Princeton Day School | Computer Engineering | Incoming Senior
+| Anvika V | Princeton Day School | Computer Engineering | Incoming Senior |
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
@@ -98,7 +98,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Ultrasonic Sensor | Object Detection | $9 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/"Link </a> |
+| Ultrasonic Sensor | Object Detection | $9 | <a href="https://www.amazon.com/Smraza-Ultrasonic-Distance-Mounting-Duemilanove/dp/B01JG09DCK/">Link </a> |
 |:--:|:--:|:--:|:--:|
 | Vibrating Motor | Haptic Feedback | $11 | <a href="https://www.amazon.com/tatoko-vibration-Waterproof-8000-16000RPM-toothbrush/dp/B07KYLZC1S/"> Link </a> |
 |:--:|:--:|:--:|:--:|
