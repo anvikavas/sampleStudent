@@ -1,4 +1,4 @@
-# Project Name Here
+# Assistave Smart Jacket
 Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -9,7 +9,7 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 ![Headstone Image](logo.svg)
   
-# Final Milestone
+<!-- # Final Milestone
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
@@ -17,11 +17,11 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What you hope to learn in the future after everything you've learned at BSE
 
 Adding to jacket
-Creating two circuits --> all soldered and ready to pop in jacket
-Having buzzer at the the collar 
+Creating two circuits > all soldered and ready to pop in jacket
+Having buzzer at the collar 
 Camera at the hand
 Vibrating motor at the wrist 
-Sparkly
+Sparkly? Most individuals with blindness can see very reflective objects, such as things covered in sparkles (85%)
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
@@ -32,12 +32,13 @@ Sparkly
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- What needs to be completed before your final milestone
+To make my device multi-functional, my first modification included a text-to-morse code translator with the Arduino Micro I was previously using and a text-speech translator with a Raspberry PI. I initially had the idea of creating a braille display. I would use the Raspberry PI to read the text and then print out the words in braille. However, with that 
 
 Raspberry Pi Open CV + Arduino Morse Code
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+-->
 # First Milestone
 
 ![MilestoneOne](MilestoneOne.png)
