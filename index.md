@@ -9,8 +9,8 @@ Replace this text with a brief description (2-3 sentences) of your project. This
 
 ![Headstone Image](logo.svg)
   
-<!-- # Final Milestone
-For your final milestone, explain the outcome of your project. Key details to include are:
+# Final Milestone
+<!-- For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
@@ -27,10 +27,21 @@ Sparkly? Most individuals with blindness can see very reflective objects, such a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
+# Schematics Part 3
+![Schematic1](S3.JPEG)
+
 # Second Milestone
+
+![MilestoneTwo](M2.1.HEIC)
+<!--![MilestoneTwo](MilestoneOne.png)-->
+![MilestoneTwo](M2.3.HEIC)
+
 The first modification I implemented started from the idea of a text-to-braille translator. I planned to use a Raspberry Pi OpenCV to read the text and the Arduino Micro to control a braille display. However, with the idea of this display came a plethora of technical problems. Creating a display small enough to be portable and lightweight while still translating more than a sentence at a time would require extremely small motors and  sensors. Then came the development of a Morse Code translator using the same vibrating motor in milestone one. Later, I realized that Morse code, like Braille, is not an accessible method of communication; as a matter of fact, only 1% of the population can understand Morse code. So to complete this milestone, I decided to create a text-to-speech translator and control it with a Raspberry Pi. The first step was connecting my Pi to my computer remotely. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Schematics Part 2
+![Schematic1](S2.png)
 
 # First Milestone
 
@@ -40,7 +51,7 @@ The first step of this project is to develop a simple system that assists visual
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Schematics 
+# Schematics Part 1
 ![Schematic1](Schematics1.png)
 
 # Code
