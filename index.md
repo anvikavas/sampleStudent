@@ -25,11 +25,11 @@ Sparkly? Most individuals with blindness can see very reflective objects, such a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
 ### Schematics Part 3
-![Schematic1](S3.png)
+![Schematic1](s3.png)
 
 # Second Milestone
 
-![MilestoneTwo](M21.png)
+![MilestoneTwo](m21.png)
 <!--![MilestoneTwo](MilestoneOne.png)-->
 
   The first modification I implemented started from the idea of a text-to-braille translator. I planned to use Raspberry Pi OpenCV to read text and use an Arduino Micro to control a braille display. However, with the idea of this display came a plethora of technical problems. Creating a display small enough to be portable and lightweight while still translating more than a sentence at a time into braille would require extremely small motors and sensors. Then came the development of a Morse Code translator using the same vibrating motor from the base project. 
@@ -117,11 +117,11 @@ void flashDotOrDash(char dotOrDash)
 ```c++
 ```
   Description Comming Soon!
-![MilestoneTwo](M23.png)
+![MilestoneTwo](m23.png)
 
   Description Comming Soon!
 ### Schematics Part 2
-![Schematic1](S2.png)
+![Schematic1](s2.png)
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 
