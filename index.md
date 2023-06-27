@@ -4,6 +4,8 @@
 |:--:|:--:|:--:|:--:|
 | Anvika V | Princeton Day School | Computer Engineering | Incoming Senior |
 
+
+<p align="center">
 ![Headstone Image](logo.svg)
   
 # Final Milestone
@@ -25,9 +27,13 @@ Sparkly? Most individuals with blindness can see very reflective objects, such a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
 ### Schematics Part 3
+
+<p align="center">
 <img src="s3.png" alt="Schematic3" height="400"/>
 
 # Second Milestone
+
+<p align="center">
 <img src="m21.png" alt="Milestone2" height="400"/>
 
 <!--![MilestoneTwo](MilestoneOne.png)-->
@@ -118,20 +124,27 @@ void flashDotOrDash(char dotOrDash)
 ```
   Description Comming Soon!
 
+<p align="center">
 <img src="m23.png" alt="Milestone2" height="400"/>
 
   Description Comming Soon!
 ### Schematics Part 2
+
+<p align="center">
 <img src="s2.png" alt="Schematic2" height="400"/>
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 
 # First Milestone
+
+<p align="center">
 <img src="M1.png" alt="Milestone1" height="400"/>
 
   The first step of this project is to develop a simple system that assists visually-impaired individuals navigate a space. It alerts the user of objects within a 70cm radius with either haptic or auditive feedback (a vibrating motor or buzzer). As the object gets closer to the user, the system responds with more frequent vibrating or buzzing; a toggle switch is used to change between the motor and the buzzer. Additionally, to establish a visual debugging method, the circuit has a 5mm red LED that lights up in harmony with haptic or auditive feedback. Next, I will expand this gadget to make it multi-functional, like adding a Raspberry PI to translate text into Morse code or attaching it to a jacket to make it a usable garment.
 
-### First Milestone Schematics 
+### First Milestone Schematics
+
+<p align="center">
 <img src="S1.png" alt="Schematic1" height="400"/>
 
 ### First Milestone Code
