@@ -25,7 +25,7 @@ Sparkly? Most individuals with blindness can see very reflective objects, such a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
 ### Schematics Part 3
-![Schematic1](s3.png)
+<img src="s3.png" alt="Schematic1" height="200"/>
 
 # Second Milestone
 
