@@ -6,7 +6,7 @@
 
 
 <p align="center">
-![Headstone Image](logo.svg)
+<img src="logo.svg" alt="Headstone Image" height="400"/>
 </p>
   
 # Final Milestone
