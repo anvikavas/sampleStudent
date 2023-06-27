@@ -180,6 +180,7 @@ void flashDotOrDash(char dotOrDash)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eLwhJpBoEEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## First Milestone Bill of Materials
+
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Arduino Micro | Microcontroller | $24.90 | <a href="https://www.digikey.com/en/products/detail/arduino/A000053/4486332?s=N4IgTCBcDaIIwAYCsCC0iBsHUDsAmIAugL5A"> DigiKey </a> |
