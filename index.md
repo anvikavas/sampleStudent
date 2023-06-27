@@ -127,12 +127,12 @@ void flashDotOrDash(char dotOrDash)
 
 # First Milestone
 
-![MilestoneOne](MilestoneOne.png)
+![MilestoneOne](M1.png)
 
   The first step of this project is to develop a simple system that assists visually-impaired individuals navigate a space. It alerts the user of objects within a 70cm radius with either haptic or auditive feedback (a vibrating motor or buzzer). As the object gets closer to the user, the system responds with more frequent vibrating or buzzing; a toggle switch is used to change between the motor and the buzzer. Additionally, to establish a visual debugging method, the circuit has a 5mm red LED that lights up in harmony with haptic or auditive feedback. Next, I will expand this gadget to make it multi-functional, like adding a Raspberry PI to translate text into Morse code or attaching it to a jacket to make it a usable garment.
 
 ### First Milestone Schematics 
-![Schematic1](Schematics1.png)
+![Schematic1](S1.png)
 
 ### First Milestone Code
 ```c++
