@@ -1,9 +1,10 @@
 # Assistive Smart Jacket
 
+<table align="center">
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Anvika V | Princeton Day School | Computer Engineering | Incoming Senior |
-
+</table>
 
 <p align="center">
 <img src="logo.svg" alt="Headstone Image" height="400"/>
