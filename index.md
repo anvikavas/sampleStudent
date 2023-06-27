@@ -28,8 +28,8 @@ Sparkly? Most individuals with blindness can see very reflective objects, such a
 -->
 ### Schematics Part 3
 
-<p align="center">
-<img src="s3.png" alt="Schematic3" height="400"/>
+
+<class = "center" img src="s3.png" alt="Schematic3" height="400"/>
 
 # Second Milestone
 
