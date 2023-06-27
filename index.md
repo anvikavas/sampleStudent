@@ -25,11 +25,11 @@ Sparkly? Most individuals with blindness can see very reflective objects, such a
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 -->
 ### Schematics Part 3
-<img src="s3.png" alt="Schematic1" height="400"/>
+<img src="s3.png" alt="Schematic3" height="400"/>
 
 # Second Milestone
+<img src="m21.png" alt="Milestone2" height="400"/>
 
-![MilestoneTwo](m21.png)
 <!--![MilestoneTwo](MilestoneOne.png)-->
 
   The first modification I implemented started from the idea of a text-to-braille translator. I planned to use Raspberry Pi OpenCV to read text and use an Arduino Micro to control a braille display. However, with the idea of this display came a plethora of technical problems. Creating a display small enough to be portable and lightweight while still translating more than a sentence at a time into braille would require extremely small motors and sensors. Then came the development of a Morse Code translator using the same vibrating motor from the base project. 
@@ -117,22 +117,21 @@ void flashDotOrDash(char dotOrDash)
 ```c++
 ```
   Description Comming Soon!
-![MilestoneTwo](m23.png)
+<img src="m23.png" alt="Milestone2" height="400"/>
 
   Description Comming Soon!
 ### Schematics Part 2
-![Schematic1](s2.png)
+<img src="s2.png" alt="Schematic2" height="400"/>
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 
 # First Milestone
-
-![MilestoneOne](M1.png)
+<img src="M1.png" alt="Milestone1" height="400"/>
 
   The first step of this project is to develop a simple system that assists visually-impaired individuals navigate a space. It alerts the user of objects within a 70cm radius with either haptic or auditive feedback (a vibrating motor or buzzer). As the object gets closer to the user, the system responds with more frequent vibrating or buzzing; a toggle switch is used to change between the motor and the buzzer. Additionally, to establish a visual debugging method, the circuit has a 5mm red LED that lights up in harmony with haptic or auditive feedback. Next, I will expand this gadget to make it multi-functional, like adding a Raspberry PI to translate text into Morse code or attaching it to a jacket to make it a usable garment.
 
 ### First Milestone Schematics 
-![Schematic1](S1.png)
+<img src="S1.png" alt="Schematic1" height="400"/>
 
 ### First Milestone Code
 ```c++
