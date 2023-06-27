@@ -31,7 +31,6 @@ Sparkly? Most individuals with blindness can see very reflective objects, such a
 
 ![MilestoneTwo](M21.png)
 <!--![MilestoneTwo](MilestoneOne.png)-->
-![MilestoneTwo](M23.png)
 
   The first modification I implemented started from the idea of a text-to-braille translator. I planned to use Raspberry Pi OpenCV to read text and use an Arduino Micro to control a braille display. However, with the idea of this display came a plethora of technical problems. Creating a display small enough to be portable and lightweight while still translating more than a sentence at a time into braille would require extremely small motors and sensors. Then came the development of a Morse Code translator using the same vibrating motor from the base project. 
 
@@ -116,8 +115,10 @@ void flashDotOrDash(char dotOrDash)
 ## Second Milestone Code for Live Text Reader (Raspberry Pi OpenCV)
 ```c++
 ```
-  Description for Schematic Comming Soon!
-  
+  Description Comming Soon!
+![MilestoneTwo](M23.png)
+
+  Description Comming Soon!
 ## Schematics Part 2
 ![Schematic1](S2.png)
 
