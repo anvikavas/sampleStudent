@@ -12,8 +12,6 @@
 
 <p align="center">
 <img src="addImage.png" alt="Finished First Milestone Image" height="400"/>
-</p>
-<p align="center">
 <font size="1"> Name of creator. Year. Image title in italics [Type of media]. </font>
 </p>
 
