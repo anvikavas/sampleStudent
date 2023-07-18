@@ -2,7 +2,7 @@
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** | **Foundation** |
 |:--:|:--:|:--:|:--:|:--|
-| First Name + Last Initial | School | Area of Interest | Grade | BlueStamp Engineering |
+| First Name + Last Initial | School | Area of Interest | Incoming Freshman/Sophmore/Junior/Senior | BlueStamp Engineering |
 
 <p align="center">
 <img src="logo.svg" alt="Headstone Image" height="400"/>
@@ -13,7 +13,9 @@
 <p align="center">
 <img src="addImage.png" alt="Finished First Milestone Image" height="400"/>
 </p>
+<p align="center">
 <font size="1"> Name of creator. Year. Image title in italics [Type of media]. </font>
+</p>
 
   For your first milestone, describe what your project is and how you plan to build it. You can include:
 - An explanation about the different components of your project and how they will all integrate together
