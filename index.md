@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 # Assistive Smart Jacket
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** | 
