@@ -32,7 +32,7 @@
 
 ### Schematics
 <p align="center">
-<img src="addImage" alt="First Milestone Schematic" height="400"/>
+<img src="addImage.png" alt="First Milestone Schematic" height="400"/>
 </p>
 <p align="center">
 <font size="1"> Name of creator. Year. _Image title_ [Type of media]. </font>
