@@ -5,8 +5,17 @@
 | First Name + Last Initial | School | Area of Interest | Incoming Freshman/Sophmore/Junior/Senior | BlueStamp Engineering |
 
 <p align="center">
-<img src="logo.svg" alt="Headstone Image" height="400"/>
+<img src="logo.svg" alt="Completed Project Photo" height="400"/>
 </p>
+<p align="center">
+<font size="1"> Name of creator. Year. _Image title_ [Type of media]. </font>
+</p>
+
+**Don't forget to replace the text below with the embedding for your final milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eLwhJpBoEEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
   
 # First Milestone
 
