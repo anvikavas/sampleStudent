@@ -12,10 +12,10 @@
 
 <p align="center">
 <img src="addImage.png" alt="Finished First Milestone Image" height="400"/>
-
-<font size="1"> Name of creator. Year. *Image title* [Type of media]. </font>
 </p>
-
+<p align="center">
+<font size="1"> Name of creator. Year. _Image title_ [Type of media]. </font>
+</p>
   For your first milestone, describe what your project is and how you plan to build it. You can include:
 - An explanation about the different components of your project and how they will all integrate together
 - Technical progress you've made so far
@@ -34,6 +34,9 @@
 <p align="center">
 <img src="addImage" alt="First Milestone Schematic" height="400"/>
 </p>
+<p align="center">
+<font size="1"> Name of creator. Year. _Image title_ [Type of media]. </font>
+</p>
 
 ### First Milestone Code
 ```c++
@@ -49,6 +52,9 @@
 
 <p align="center">
 <img src="addImage.png" alt="Fininshed Second Milestone Image" height="400"/>
+</p>
+<p align="center">
+<font size="1"> Name of creator. Year. _Image title_ [Type of media]. </font>
 </p>
 
   For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
@@ -67,6 +73,9 @@
 <p align="center">
 <img src="addImage.png" alt="Second Milestone Schematics" height="400"/>
 </p>
+<p align="center">
+<font size="1"> Name of creator. Year. _Image title_ [Type of media]. </font>
+</p>
 
 ### Second Milestone Code 
 ```c++
@@ -83,6 +92,9 @@ CODE
 <p align="center">
 <img src="addImage.png" alt="Final Milestone Image" height="400"/>
 </p>
+<p align="center">
+<font size="1"> Name of creator. Year. _Image title_ [Type of media]. </font>
+</p>
 
 For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
@@ -94,6 +106,9 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <p align="center">
 <img src="addImage.png" alt="Final Milestone Schematics" height="400"/>
+</p>
+<p align="center">
+<font size="1"> Name of creator. Year. _Image title_ [Type of media]. </font>
 </p>
 
 ### Final Milestone Code 
