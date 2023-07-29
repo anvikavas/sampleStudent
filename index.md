@@ -5,7 +5,7 @@
 | Anvika V | Princeton Day School | Computer Engineering | Incoming Senior |
 
 <p align="center">
-<img src="logo.svg" alt="Headstone Image" height="400"/>
+<img src="IMG_7624.jpeg" alt="Headstone Image" height="400"/>
 </p>
 
 <!--<div align="center">
